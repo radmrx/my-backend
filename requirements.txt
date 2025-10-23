@@ -1,8 +1,8 @@
 fastapi
 uvicorn
 moviepy
-requests
-huggingface_hub
+whisper
 pydub
-openai-whisper
+huggingface_hub
+requests
 python-multipart
